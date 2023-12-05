@@ -1,5 +1,5 @@
 import Product from "@/Components/Product/Product";
-
+import style from './Products.module.css'
 
 
 
@@ -12,7 +12,7 @@ const Posts = async () => {
 
   return (
     <div className="p-10">
-      <h3 className="text-3xl   text-black capitalize font-semibold md:text-4xl">
+      <h3 className={style.sectionTitle}>
         the total products: {products?.length}
       </h3>
       <div className="inner-container">
