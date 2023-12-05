@@ -1,0 +1,55 @@
+{
+  "posts":[
+    {
+      "id": 1,
+      "title": "First Post",
+      "description": "Description for the first post."
+    },
+    {
+      "id": 2,
+      "title": "Second Post",
+      "description": "Description for the second post."
+    },
+    {
+      "id": 3,
+      "title": "Third Post",
+      "description": "Description for the third post."
+    },
+    {
+      "id": 4,
+      "title": "Fourth Post",
+      "description": "Description for the fourth post."
+    },
+    {
+      "id": 5,
+      "title": "Fifth Post",
+      "description": "Description for the fifth post."
+    },
+    {
+      "id": 6,
+      "title": "Sixth Post",
+      "description": "Description for the sixth post."
+    },
+    {
+      "id": 7,
+      "title": "Seventh Post",
+      "description": "Description for the seventh post."
+    },
+    {
+      "id": 8,
+      "title": "Eighth Post",
+      "description": "Description for the eighth post."
+    },
+    {
+      "id": 9,
+      "title": "Ninth Post",
+      "description": "Description for the ninth post."
+    },
+    {
+      "id": 10,
+      "title": "Tenth Post",
+      "description": "Description for the tenth post."
+    }
+  ]
+  
+}
