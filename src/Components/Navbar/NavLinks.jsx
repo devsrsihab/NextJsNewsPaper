@@ -19,6 +19,11 @@ const NavLinks = () => {
                </Link>
                </li>
               <li className="text-gray-600  hover:text-blue-600">
+               <Link href='/users' >
+               Users
+               </Link>
+               </li>
+              <li className="text-gray-600  hover:text-blue-600">
                <Link href='/signup' >
                Sign Up
                </Link>

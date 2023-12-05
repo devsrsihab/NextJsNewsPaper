@@ -1,11 +1,14 @@
 import Product from "@/Components/Product/Product";
 
+
+
+
 const Posts = async () => {
   // fethc the data
-  const res = await fetch("https://dummyjson.com/products",{
-    cache:"force-cache"
+  const res = await fetch("http://localhost:8000/products",{
+    cache: "no-store"
   });
-  const { products } = await res.json();
+  const products  = await res.json();
 
   return (
     <div className="p-10">
